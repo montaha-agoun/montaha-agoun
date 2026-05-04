@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Chamo-me Montaha Elaggoun.
 
-<!--
-**montaha-agoun/montaha-agoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher & Data Science Student | Computer Science Graduate.
 
-Here are some ideas to get you started:
+Building models, finding insights, and trying to keep my training loss lower than a Ferrari pit stop time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The Current Season 
+-  Working on M2 Thesis.
+-  Learning advanced 3D segmentation architectures and Português.
+
+## 
+* 💬 Ask me about Computer Vision, Deep Learning, or why Kylian Mbappé is the best in the world.
+* 📫 How to reach me: [aggoun.montaha@gmail.com](mailto:aggoun.montaha@gmail.com) .
